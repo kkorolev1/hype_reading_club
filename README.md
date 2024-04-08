@@ -6,10 +6,10 @@
 Reading club about Deep Learning, LLM, RL and so on.
 
 # Important links
-* Telegram invite https://t.me/+_bMSUxr6rEQzMTZi
-* [Papers for discussion](https://docs.google.com/spreadsheets/d/1I7pde9HimxwW5-0te72CDccCd4TW5taV7FyCLFACdVY/edit?usp=sharing)
-* [Discord server](https://discord.gg/prwhUWBW)
-* [Youtube channel](https://www.youtube.com/@hype_reading_club)
+* telegram invite https://t.me/+_bMSUxr6rEQzMTZi
+* [papers for discussion](https://docs.google.com/spreadsheets/d/1I7pde9HimxwW5-0te72CDccCd4TW5taV7FyCLFACdVY/edit?usp=sharing)
+* [discord server](https://discord.gg/prwhUWBW)
+* [youtube channel](https://www.youtube.com/@hype_reading_club)
 
 ## Schedule
 Friday or Sunday, 19:00, Moscow
