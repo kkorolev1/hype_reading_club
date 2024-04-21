@@ -8,8 +8,7 @@ Reading club about Deep Learning, LLM, RL and so on.
 ## Links
 1. Telegram invite <br> https://t.me/+_bMSUxr6rEQzMTZi
 2. [Papers for discussion](https://docs.google.com/spreadsheets/d/1I7pde9HimxwW5-0te72CDccCd4TW5taV7FyCLFACdVY/edit?usp=sharing)
-3. [Discord server](https://discord.gg/prwhUWBW)
-4. [Youtube channel](https://www.youtube.com/@hype_reading_club)
+3. [Youtube channel](https://www.youtube.com/@hype_reading_club)
 
 ## Schedule
 Friday or Sunday, 19:00, Moscow
