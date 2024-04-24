@@ -17,3 +17,4 @@ Friday or Sunday, 19:00, Moscow
 | Paper | Speaker | Link |
 | --- | --- | --- |
 | [Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision](https://arxiv.org/abs/2312.09390) | Тимофей Грицаев <br>@tgritsaev | [Slides](https://disk.yandex.ru/i/WznSbpPXWG0FfA) <br> [Video](https://www.youtube.com/watch?v=fYS7QGBfozg&ab_channel=HypeReadingClub) |
+| [Direct Preference Optimization: Your Language Model is secretly a reward model]([https://arxiv.org/abs/2312.09390](https://arxiv.org/pdf/2305.18290.pdf)) | Тимофей Грицаев <br>@tgritsaev | [Slides](...) <br> no video :( |
