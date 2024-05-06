@@ -14,7 +14,8 @@ Reading club about Deep Learning, LLM, RL and so on.
 Friday or Sunday, 19:00, Moscow
 
 ## Past meetings
-| Paper | Speaker | Link |
-| --- | --- | --- |
-| [Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision](https://arxiv.org/abs/2312.09390) | Тимофей Грицаев <br>@tgritsaev | [Slides](https://disk.yandex.ru/i/WznSbpPXWG0FfA) <br> [Video](https://www.youtube.com/watch?v=fYS7QGBfozg&ab_channel=HypeReadingClub) |
-| [Direct Preference Optimization: Your Language Model is secretly a reward model](https://arxiv.org/pdf/2305.18290.pdf) | Тимофей Грицаев <br>@tgritsaev | [Slides](https://disk.yandex.ru/i/6HCPa14yuXmNFQ) <br> no video :( |
+Date | Paper | Speaker | Link |
+| --- | --- | --- | --- |
+| 07/04/2024 | [Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision](https://arxiv.org/abs/2312.09390) | Тимофей Грицаев <br>@tgritsaev | [Slides](https://disk.yandex.ru/i/WznSbpPXWG0FfA) <br> [Video](https://www.youtube.com/watch?v=fYS7QGBfozg&ab_channel=HypeReadingClub) |
+| 21/04/2024 | [Direct Preference Optimization: Your Language Model is secretly a reward model](https://arxiv.org/pdf/2305.18290.pdf) | Тимофей Грицаев <br>@tgritsaev | [Slides](https://disk.yandex.ru/i/6HCPa14yuXmNFQ) |
+| 05/05/2024 | [Nomic Embed: Training a Reproducible Long Context Text Embedder](https://arxiv.org/abs/2402.01613) | Артем Беляев <br>@karaoke_tutu | [Video](https://youtu.be/JaWAXQKLkwY) |
