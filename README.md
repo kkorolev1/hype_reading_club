@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/6RcHQN9/paper-club-logo.jpg" height="300" />
+<img src="https://i.ibb.co/n1PS9g6/logo.png" height="300" />
 </p>
 
 # Hype Reading Club
